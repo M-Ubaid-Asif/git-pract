@@ -1,0 +1,22 @@
+Remote origin/main - test.txt\
+\
+\
+LOCAL/Diggikull/main - does not have the change\
+\
+GIT Clone <Repository Name> - for cloning into my repository\
+\
+GIT branch -> is to see in which branch you are in\
+\
+GIT Status -> Is to see if you have any un-committed changes\
+\
+GIT PULL -> to download or pull the latest changes from the branch, you are in\
+\
+GIT add /HTML/about.html => stage the about html\
+\
+GIT add \'97all => to stage all the my local changes \
+\
+GIT Commit -m \'93<message>\'94\
+\
+GIT push
+\f1\b\fs40 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 \
